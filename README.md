@@ -1,4 +1,4 @@
-# P2P-Heartbeat
+# P2P-HAC Heartbeat
 A multithreaded implementation of a P2P heartbeat protocol using UDP and a custom packet design
 
 Is executed with a text file containing all of the hosts as a command line argument (current configured for a total of 4 peers)
